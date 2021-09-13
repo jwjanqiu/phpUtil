@@ -1,8 +1,5 @@
 # PHP常用方法
 
-[![Latest Stable Version](https://poser.pugx.org/aliyuncs/oss-sdk-php/v/stable)](https://packagist.org/packages/aliyuncs/oss-sdk-php)
-
-
 ## 概述
 
 可能用的上方法，陆陆续续补充...
