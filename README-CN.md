@@ -1,5 +1,6 @@
 # PHP常用方法
-
+[![Latest Stable Version](http://poser.pugx.org/qiuyier/php-util/v)](https://packagist.org/packages/qiuyier/php-util)
+[![PHP Version Require](http://poser.pugx.org/qiuyier/php-util/require/php)](https://packagist.org/packages/qiuyier/php-util)
 ## 概述
 
 可能用的上方法，陆陆续续补充...
